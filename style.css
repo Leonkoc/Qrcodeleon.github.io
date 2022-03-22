@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Noto Sans", sans-serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: hsl(212, 45%, 89%);
+}
+
+.card {
+  display: flex;
+  background: hsl(0, 100%, 99%);
+  box-shadow: 5px 7px 5px 0px rgba(166, 154, 154, 0.75);
+  border-radius: 20px;
+  width: 270px;
+  height: 410px;
+  padding: 10px 5px;
+  margin-top: 100px;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  background: white;
+  margin-bottom: 100px;
+}
+.card:hover {
+  box-shadow: 5px 7px 5px 0px rgba(110, 103, 103, 0.575);
+}
+.imgimg {
+  width: 250px;
+  padding-left: 10px;
+  padding-bottom: 15px;
+  border-radius: 20px;
+}
+
+h3 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  justify-content: center;
+  text-align: center;
+}
+
+p {
+  font-size: 15px;
+  text-align: center;
+  padding-top: 5px;
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+}
+
+@media screen and (max-width: 375px) {
+  .card {
+    display: flex;
+    background: hsl(0, 100%, 99%);
+    box-shadow: 5px 7px 5px 0px rgba(166, 154, 154, 0.75);
+    border-radius: 20px;
+    width: 270px;
+    height: 410px;
+    padding: 10px 5px;
+    margin-top: 100px;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    background: white;
+    margin-bottom: 100px;
+  }
+}
