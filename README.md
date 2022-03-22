@@ -1,4 +1,4 @@
-This is a solution <a href:"https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">QR code component</a>challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-N-SKbCXop"> QR code componentchallenge on Frontend Mentor</a>. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2>Brief</h2>
 <p>
